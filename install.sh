@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# install.sh
+# Script to install all dependencies for the Tor-X CLI tool
+
 echo "[+] Starting the installation process..."
 
 # Update package lists
